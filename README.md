@@ -1,6 +1,6 @@
 # basicbankingsystem1
 This project contains a frontend based on the needs of a banking system where the user can get various Details associated with their bank like loan, account details etc and the backend is made of flask, a micro framework based on python which links the frontend to backend capable of handling get/ post http request.
-You can find the project on GitHub: https://github.com/Kuvam654/basicbankingsystem
+You can find the project on GitHub: https://github.com/25anchal/Basic_banking_system
 
 I made this registration form while learning web development, which includes the following features:
 
